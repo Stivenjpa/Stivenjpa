@@ -37,6 +37,6 @@ Aplicación móvil con autenticación usando Firebase.
 
 Aplicación Android con conexión a base de datos en Firebase.
 
-🔗 [Ver proyecto](LINK_AQUI)
+🔗 [Ver proyecto](https://github.com/Stivenjpa/AppAndroid)
 
 ---
