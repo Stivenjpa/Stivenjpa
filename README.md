@@ -5,13 +5,13 @@ Soy tecnólogo en Sistemas y Desarrollo de Software. He trabajado en soporte inf
 Actualmente me estoy enfocando en el área de Desarrollo De Sotfware, especialmente en la automatización de procesos y validación de flujos de usuario.
 
 ---
+## 🛠️ Skills
 
-## 🚀 Lo que he venido trabajando
-
-* Automatización de procesos con Rocketbot (creación de usuarios, validación de flujos)
-* Desarrollo de aplicaciones móviles en Flutter y Kotlin
-* Integración con Firebase (autenticación y base de datos)
-* Validación funcional de sistemas y manejo de incidencias
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Rocketbot](https://img.shields.io/badge/Rocketbot-Automation-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
