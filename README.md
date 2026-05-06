@@ -21,7 +21,7 @@ Actualmente me estoy enfocando en el área de Desarrollo De Sotfware, especialme
 
 Automatización de un flujo de gestión de usuarios.
 
-🔗 [Ver proyecto](LINK_AQUI)
+🔗 [Ver proyecto](https://github.com/Stivenjpa/rocketbot-automation.git)
 
 ---
 
