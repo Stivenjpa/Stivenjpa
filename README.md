@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy Estiven 👋
 
-<!--
-**Stivenjpa/Stivenjpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy tecnólogo en Sistemas y Desarrollo de Software. He trabajado en soporte informático, donde he estado involucrado en gestión de usuarios, validación de accesos y resolución de incidencias en sistemas reales.
 
-Here are some ideas to get you started:
+Actualmente me estoy enfocando en el área de Desarrollo De Sotfware, especialmente en la automatización de procesos y validación de flujos de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Lo que he venido trabajando
+
+* Automatización de procesos con Rocketbot (creación de usuarios, validación de flujos)
+* Desarrollo de aplicaciones móviles en Flutter y Kotlin
+* Integración con Firebase (autenticación y base de datos)
+* Validación funcional de sistemas y manejo de incidencias
+
+---
+
+## 📌 Proyectos
+
+### 🤖 Automatización con Rocketbot
+
+Automatización de un flujo de gestión de usuarios.
+
+🔗 [Ver proyecto](LINK_AQUI)
+
+---
+
+### 📱 App en Flutter
+
+Aplicación móvil con autenticación usando Firebase.
+
+🔗 [Ver proyecto](LINK_AQUI)
+
+---
+
+### 📱 App en Kotlin
+
+Aplicación Android con conexión a base de datos en Firebase.
+
+🔗 [Ver proyecto](LINK_AQUI)
+
+---
