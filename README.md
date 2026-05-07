@@ -5,7 +5,7 @@ Soy tecnólogo en Sistemas y Desarrollo de Software. He trabajado en soporte inf
 Actualmente me estoy enfocando en el área de Desarrollo De Sotfware, especialmente en la automatización de procesos y validación de flujos de usuario.
 
 ---
-## 🛠️ Skills
+## 🛠️ Habilidades
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
